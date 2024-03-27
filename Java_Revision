@@ -1,3 +1,10 @@
+//Finished in portal
+
+
+
+
+
+
 1. Introduction to JDBC
 
 JDBC (Java Database Connectivity) is a Java API that enables Java applications to interact with relational databases. It provides a standard interface for accessing databases, executing SQL queries, and processing result sets.
